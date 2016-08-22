@@ -1,0 +1,4 @@
+#test.putao.com
+pad-server.putao.com /pad/SystemVersion/getLatestVersiosn
+account.putao.com /
+www.putao.com /
