@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #coding=utf-8
 #script name check_web.py
+#该脚本是用来监控特定域名，如果请求有报错就发送报警到微信号里面
+#域名列表是存放在一个指定文件里面，这里定义为weblist.txt
 import socket
 import re
 import sys
